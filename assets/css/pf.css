@@ -7,3 +7,8 @@
 	font-family: baron-neue;
   font-size: 200%;
 }
+
+.icon-small {
+	max-width: 40px;
+	margin: auto 2%;
+}
