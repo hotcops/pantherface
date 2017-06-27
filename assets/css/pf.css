@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "baron-neue";
+	src: url("../fonts/baron-neue.otf");
+}
+
+#logo {
+	font-family: baron-neue;
+  font-size: 200%;
+}
