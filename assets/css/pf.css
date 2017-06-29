@@ -5,10 +5,14 @@
 
 #logo {
 	font-family: baron-neue;
-  font-size: 200%;
+  font-size: 300%;
 }
 
 .icon-small {
 	max-width: 40px;
-	margin: auto 2%;
+	margin: auto 3%;
+}
+
+#banner h2 {
+	font-family: "baron-neue";
 }
